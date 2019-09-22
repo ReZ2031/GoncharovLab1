@@ -1,4 +1,0 @@
-﻿"ConsoleApp1.exe" (CLR v4.0.30319: DefaultDomain). Загружено "C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
-"ConsoleApp1.exe" (CLR v4.0.30319: DefaultDomain). Загружено "C:\Users\danil2019\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe". Символы загружены.
-Программа "[15012] ConsoleApp1.exe: Трассировка программы" завершилась с кодом 0 (0x0).
-Программа "[15012] ConsoleApp1.exe" завершилась с кодом 0 (0x0).
